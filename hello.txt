@@ -1,3 +1,5 @@
 Hello Git! I am learning you 😎
 nice this is gonna be good
 awesome
+
+Hello Git! This is a NEW MESSAGE from my new branch!
